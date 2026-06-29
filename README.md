@@ -43,4 +43,22 @@ airbnb-data-analysis/
 │
 ├── README.md
 └── requirements.txt
-,,,
+```
+## Dataset
+
+The dataset contains Airbnb listings from Mexico City, including information about prices, room types, host information, availability, reviews, and geographic location.
+
+## Current Progress
+
+- ✅ Data cleaning completed
+- ⏳ Exploratory Data Analysis in progress
+- ⏳ Business insights in progress
+
+
+## Author
+
+Zuriel Arath Castillo Capulin
+
+Physics Undergraduate — UNAM
+
+Interested in Data Science, Data Analysis, and Machine Learning.
